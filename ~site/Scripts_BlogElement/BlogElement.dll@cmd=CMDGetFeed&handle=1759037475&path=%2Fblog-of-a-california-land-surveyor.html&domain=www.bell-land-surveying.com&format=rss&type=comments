@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://10.250.26.20/~site/iblog/roller-ui/styles/rss.xsl" media="screen"?><rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom" >
+<channel>
+  <title>Field Notes - a California Surveyor&apos;s Blog (Comments)</title>
+  <link>http://www.bell-land-surveying.com/blog-of-a-california-land-surveyor.html</link>
+  <atom:link rel="self" type="application/rss+xml" href="/~site/Scripts_BlogElement/BlogElement.dll?cmd=CMDGetFeed&amp;handle=1759037475&amp;path=/blog-of-a-california-land-surveyor.html&amp;domain=www.bell-land-surveying.com&amp;format=rss&amp;type=comments" />
+  <description>A California Land Surveyor comments about trends in mapping, geography and property boundaries</description>
+  <language>en-us</language>
+  <copyright>Copyright 2012</copyright>
+  <lastBuildDate>Mon, 8 Oct 2012 11:39:25 -0500</lastBuildDate>
+  <generator>Apache Roller 4.0.1 (20150212043249:buildserveruser)</generator>
+      </channel>
+</rss>

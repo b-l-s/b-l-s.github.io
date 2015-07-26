@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://10.250.26.20/~site/iblog/roller-ui/styles/rss.xsl" media="screen"?><rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom" >
+<channel>
+  <title>Field Notes - a California Surveyor&apos;s Blog</title>
+  <link>http://www.bell-land-surveying.com/blog-of-a-california-land-surveyor.html</link>
+      <atom:link rel="self" type="application/rss+xml" href="/~site/Scripts_BlogElement/BlogElement.dll?cmd=CMDGetFeed&amp;handle=1759037475&amp;path=/blog-of-a-california-land-surveyor.html&amp;domain=www.bell-land-surveying.com&amp;format=rss&amp;type=entries" />
+    <description>A California Land Surveyor comments about trends in mapping, geography and property boundaries</description>
+  <language>en-us</language>
+  <copyright>Copyright 2012</copyright>
+  <lastBuildDate>Mon, 8 Oct 2012 11:39:25 -0500</lastBuildDate>
+  <generator>Apache Roller (incubating) 4.0.1 (20150212043249:buildserveruser)</generator>
+        <item>
+    <guid isPermaLink="true">http://www.bell-land-surveying.com/blog-of-a-california-land-surveyor.html?entry=slip-sliding-away</guid>
+    <title>&quot;Slip Sliding Away&quot;</title>
+    <dc:creator>Douglas Bell</dc:creator>
+    <link>http://www.bell-land-surveying.com/blog-of-a-california-land-surveyor.html?entry=slip-sliding-away</link>
+        <pubDate>Tue, 18 Sep 2012 18:18:09 -0500</pubDate>
+    <category>General</category>
+            <description>&lt;div align=&quot;center&quot;&gt;&lt;br /&gt;&lt;img width=&quot;261&quot; vspace=&quot;0&quot; hspace=&quot;0&quot; height=&quot;185&quot; border=&quot;1&quot; align=&quot;bottom&quot; alt=&quot;Palos Verdes Coast&quot; src=&quot;http://bls-version-3.intuitwebsites.com/files/image/blog/palos-verdes-coast.jpg&quot; /&gt;&lt;br /&gt;&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;I&apos;m intrigued by a recent article by Abby Sewell and Jessica Garrison in the Los Angeles Times that reported, in part, on a lawsuit involving high value real estate in Palos Verdes that has been displaced by extensive ground movement. The City of Rancho Palos Verdes and others have been named as defendants in litigation concerning property lines in the area of the Portuguese Bend landslide. A central question to the ongoing dispute is whether property boundary lines stay fixed in perpetuity, or whether they move with the land.&lt;br /&gt;&lt;br /&gt;A host of defendants were named in the lawsuit: the City of Rancho Palos
+ Verdes, Orphan Homes, Southern California Edison, Verizon, the local 
+redevelopment agency, a local home owner&apos;s association, two different 
+Los Angeles County Sanitation Districts, two banks, and adjacent private
+ land owners. Of course, every named party in the lawsuit is represented
+ by legal counsel, and some of Southern California&apos;s most prestigious 
+law firms are involved in the litigation.&lt;br /&gt;&lt;br /&gt;Here&apos;s an excerpt from the Times article, which appeared September 9, 2012:&lt;br /&gt;&lt;blockquote&gt;&amp;quot;Although Joannou bought the house, because of the
+landslide, the property belongs to Rancho Palos Verdes, or so the city says.
+The city said that over the course of decades, the slow-moving Portuguese Bend
+Landslide moved the house off its original lot onto land owned by the city&apos;s
+redevelopment agency, a fact that Joannou said she was unaware of when she
+bought the house.&lt;br /&gt;&lt;br /&gt;
+The city says the house belongs on a lot across the street from its current
+location, where it was before the landslide began in 1956. That lot is behind
+someone else&apos;s house and has no ocean view.
+&lt;br /&gt;&lt;br /&gt;
+The dispute has threatened a long-standing gentleman&apos;s agreement among
+neighbors in the Portuguese Bend community, who had operated on the assumption
+that their property lines move with the landslide instead of remaining in their
+pre-slide locations - a belief that the city does not always share.
+&lt;br /&gt;&lt;br /&gt;
+Joannou - joined by a real estate company that had bought the similarly
+situated house next door - sued the city and everyone else with a possible
+interest in the land in an attempt to get the neighborhood&apos;s property lines
+redrawn in the houses&apos; current locations. She lost, but has appealed the
+decision.&amp;quot;
+&lt;br /&gt;&lt;br /&gt;&lt;a title=&quot;LA Times Article&quot; href=&quot;http://www.latimes.com/news/local/la-me-city-attorney-land-use-20120909,0,2019132,full.story&quot; target=&quot;_blank&quot;&gt;http://www.latimes.com/news/local/la-me-city-attorney-land-use-20120909,0,2019132,full.story&lt;/a&gt;&lt;br /&gt;&lt;/blockquote&gt;&lt;br /&gt;An interesting Wikipedia article provides good background information on the Portuguese Bend landslide. It indicates that when the landslide was first noticed in 1956, movements of 7-10 cm per day were observed by land surveyors.&lt;br /&gt;&lt;blockquote&gt;&lt;a title=&quot;Wikipedia article&quot; target=&quot;_blank&quot; href=&quot;http://en.wikipedia.org/wiki/Portuguese_Bend#Portuguese_Bend_Landslide&quot;&gt;http://en.wikipedia.org/wiki/Portuguese_Bend#Portuguese_Bend_Landslide&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/blockquote&gt;My first reaction upon reading the article was that the City appeared to
+ be on &amp;quot;firm ground&amp;quot; in their assertion that property boundary lines 
+remain fixed. But a little research and deeper thinking yields a much 
+cloudier picture:&lt;br /&gt;&lt;br /&gt;Filings in Los Angeles Superior Court, Case Number: BC445457,ANDREA JOANNOU ET AL VS ORPHAN HOMES indicates that the plaintiff brought a complaint for quiet title action under the Cullen Earthquake Act, Section 751.50-751.65 of the California Code of Civil Procedure.&lt;br /&gt;&lt;br /&gt;The first paragraph of Section 751.50 of the Cullen Earthquake Act states:&lt;br /&gt;&lt;blockquote&gt;If the boundaries of land owned either by public or by private entities have been disturbed by earth movements such as, but not limited to, slides, subsidence, lateral or vertical displacements or similar disasters caused by man, or by earthquake or other acts of God, so that such lands are in a location different from that at which they were located prior to the disaster, an action in rem may be brought to equitably reestablish boundaries and to quiet title to land within the boundaries so reestablished.&lt;br /&gt;&lt;/blockquote&gt;&lt;br /&gt;Unstable land abounds in Southern California, from the sandstone cliffs of Laguna Beach, to notoriously sliding hillside developments in San Clemente, Anaheim Hills, Yorba Linda, Diamond Bar, and the Rose Hills area of Whittier, to name just a few. The results of this litigation could have a significant impact on the methods for reestablishing property boundaries in California, and upon the day to day practices of Professional Land Surveyors, so we&apos;ll be watching the appellate case closely.&lt;br /&gt;&lt;br /&gt;I plan to delve into the court proceedings in the next few weeks to 
+understand the legal arguments and judicial logic behind the Superior Court&apos;s ruling in 
+favor of the defendants.  Stay tuned!</description>          </item>
+  </channel>
+</rss>
