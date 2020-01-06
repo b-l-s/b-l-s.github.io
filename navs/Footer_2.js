@@ -63,8 +63,8 @@ nav_Footer_2.height="119";
 
 nav_Footer_2.navName = "Footer_2";
 nav_Footer_2.imagePath = "null";
-nav_Footer_2.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_Footer_2.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_Footer_2.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_Footer_2.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_Footer_2.imageWidth = "16";
 nav_Footer_2.imageHeight = "16";
 nav_Footer_2.fontClass = "size8 Helvetica8";

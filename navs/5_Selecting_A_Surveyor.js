@@ -63,8 +63,8 @@ nav_5_Selecting_A_Surveyor.height="104";
 
 nav_5_Selecting_A_Surveyor.navName = "5_Selecting_A_Surveyor";
 nav_5_Selecting_A_Surveyor.imagePath = "null";
-nav_5_Selecting_A_Surveyor.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_5_Selecting_A_Surveyor.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_5_Selecting_A_Surveyor.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_5_Selecting_A_Surveyor.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_5_Selecting_A_Surveyor.imageWidth = "16";
 nav_5_Selecting_A_Surveyor.imageHeight = "16";
 nav_5_Selecting_A_Surveyor.fontClass = "size9 Helvetica9";

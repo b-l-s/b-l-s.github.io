@@ -63,8 +63,8 @@ nav_4_About_Our_Clients.height="41";
 
 nav_4_About_Our_Clients.navName = "4_About_Our_Clients";
 nav_4_About_Our_Clients.imagePath = "null";
-nav_4_About_Our_Clients.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_4_About_Our_Clients.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_4_About_Our_Clients.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_4_About_Our_Clients.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_4_About_Our_Clients.imageWidth = "16";
 nav_4_About_Our_Clients.imageHeight = "16";
 nav_4_About_Our_Clients.fontClass = "size9 Helvetica9";

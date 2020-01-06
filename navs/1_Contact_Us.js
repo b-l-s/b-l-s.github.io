@@ -63,8 +63,8 @@ nav_1_Contact_Us.height="41";
 
 nav_1_Contact_Us.navName = "1_Contact_Us";
 nav_1_Contact_Us.imagePath = "null";
-nav_1_Contact_Us.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_1_Contact_Us.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_1_Contact_Us.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_1_Contact_Us.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_1_Contact_Us.imageWidth = "16";
 nav_1_Contact_Us.imageHeight = "16";
 nav_1_Contact_Us.fontClass = "size9 Helvetica9";

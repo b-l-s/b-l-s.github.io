@@ -63,8 +63,8 @@ nav_Glossary.height="42";
 
 nav_Glossary.navName = "Glossary";
 nav_Glossary.imagePath = "null";
-nav_Glossary.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_Glossary.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_Glossary.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_Glossary.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_Glossary.imageWidth = "16";
 nav_Glossary.imageHeight = "16";
 nav_Glossary.fontClass = "size11 Helvetica11";

@@ -63,8 +63,8 @@ nav_Footer_5.height="71";
 
 nav_Footer_5.navName = "Footer_5";
 nav_Footer_5.imagePath = "null";
-nav_Footer_5.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_Footer_5.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_Footer_5.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_Footer_5.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_Footer_5.imageWidth = "16";
 nav_Footer_5.imageHeight = "16";
 nav_Footer_5.fontClass = "size8 Helvetica8";

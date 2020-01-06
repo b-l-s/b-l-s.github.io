@@ -63,8 +63,8 @@ nav_9_Property_Line_Surveys.height="83";
 
 nav_9_Property_Line_Surveys.navName = "9_Property_Line_Surveys";
 nav_9_Property_Line_Surveys.imagePath = "null";
-nav_9_Property_Line_Surveys.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_9_Property_Line_Surveys.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_9_Property_Line_Surveys.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_9_Property_Line_Surveys.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_9_Property_Line_Surveys.imageWidth = "16";
 nav_9_Property_Line_Surveys.imageHeight = "16";
 nav_9_Property_Line_Surveys.fontClass = "size9 Helvetica9";

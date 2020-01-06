@@ -63,8 +63,8 @@ nav_2_About_Us.height="104";
 
 nav_2_About_Us.navName = "2_About_Us";
 nav_2_About_Us.imagePath = "null";
-nav_2_About_Us.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_2_About_Us.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_2_About_Us.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_2_About_Us.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_2_About_Us.imageWidth = "16";
 nav_2_About_Us.imageHeight = "16";
 nav_2_About_Us.fontClass = "size9 Helvetica9";

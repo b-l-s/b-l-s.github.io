@@ -63,8 +63,8 @@ nav_6_Surveying_101_FAQs.height="62";
 
 nav_6_Surveying_101_FAQs.navName = "6_Surveying_101_FAQs";
 nav_6_Surveying_101_FAQs.imagePath = "null";
-nav_6_Surveying_101_FAQs.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_6_Surveying_101_FAQs.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_6_Surveying_101_FAQs.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_6_Surveying_101_FAQs.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_6_Surveying_101_FAQs.imageWidth = "16";
 nav_6_Surveying_101_FAQs.imageHeight = "16";
 nav_6_Surveying_101_FAQs.fontClass = "size9 Helvetica9";

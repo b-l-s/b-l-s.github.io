@@ -63,8 +63,8 @@ nav_Copyright_Year.height="15";
 
 nav_Copyright_Year.navName = "Copyright_Year";
 nav_Copyright_Year.imagePath = "null";
-nav_Copyright_Year.selectedImagePath = "/~media/elements/LayoutClipart/";
-nav_Copyright_Year.mouseOverImagePath = "/~media/elements/LayoutClipart/";
+nav_Copyright_Year.selectedImagePath = "/media/elements/LayoutClipart/";
+nav_Copyright_Year.mouseOverImagePath = "/media/elements/LayoutClipart/";
 nav_Copyright_Year.imageWidth = "16";
 nav_Copyright_Year.imageHeight = "16";
 nav_Copyright_Year.fontClass = "size9 Helvetica9";
